@@ -23,4 +23,4 @@ Also: [English Forge](https://github.com/midat-fx/english-forge) — local-first
 
 **Stack:** TypeScript · Python · Cloudflare Workers/Pages/D1/KV · Gemini · Whisper · BM25 / pgvector · DuckDB · Vitest
 
-📫 midat.faizov@gmail.com
+📫 faizov.midat@gmail.com
