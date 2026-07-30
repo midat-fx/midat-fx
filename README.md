@@ -1,9 +1,9 @@
 # Midat Faizov
 
-Software engineer working on coding-agent evaluation, deterministic verifiers,
+Software engineer working on long-horizon coding-agent evaluation, deterministic verifiers,
 test infrastructure, and production TypeScript/Python systems.
 
-I build task environments that reward correct implementations rather than
+I build long-horizon task environments that reward correct implementations rather than
 test-gaming shortcuts. My public work includes sealed verifiers, held-out test
 suites, CI evaluation gates, large local-first applications, and containerized
 data tooling.
